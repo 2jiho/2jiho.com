@@ -55,7 +55,16 @@ avatar: https://github.com/2jiho.png
 toc: true
 
 comments:
-  provider: # [disqus | utterances | giscus]
+  provider: giscus
+  giscus:
+    repo: 2jiho/2jiho.com
+    repo_id: R_kgDONYHURQ
+    category: comments
+    category_id: DIC_kwDONYHURc4Ck1yq
+    mapping: pathname
+    input_position: bottom
+    lang: ko
+    reactions_enabled: 1
 
 pwa:
   enabled: true
