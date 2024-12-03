@@ -63,7 +63,7 @@ order: 4
 - 시스템 장애 복구 및 유지보수 경험
 
 <!-- 논문링크 -->
-[Paper-link]: http://chungbuk.dcollection.net/common/orgView/200000771904
+[Paper-link]: https://chungbuk.dcollection.net/common/orgView/200000771904
 <!-- SVG 아이콘 라벨 -->
 [Machine-Vision-Camera]: https://img.shields.io/badge/Machine_Vision_Camera-333333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0id2hpdGUiPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTE4LjE1LDQuOTRBMi4wOSwyLjA5LDAsMCwwLDE3LDUuMmwtOC42NSw1YTIsMiwwLDAsMC0uNzMsMi43NGwxLjUsMi41OWEyLDIsMCwwLDAsMi43My43NGwxLjgtMWEyLjQ5LDIuNDksMCwwLDAsMS4xNiwxVjE4YTIsMiwwLDAsMCwyLDJIMjJWMThIMTYuODFWMTYuMjdBMi40OSwyLjQ5LDAsMCwwLDE4LDEyLjczbDIuNTMtMS40NmEyLDIsMCwwLDAsLjc0LTIuNzRsLTEuNS0yLjU5YTIsMiwwLDAsMC0xLjU5LTFNNi4yMiwxMy4xNywyLDEzLjg3bC43NSwxLjMsMiwzLjQ2Ljc1LDEuMywyLjcyLTMuM1oiPjwvcGF0aD4gPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIj48L3JlY3Q+IDwvZz48L3N2Zz4=&logoColor=white
 <!-- 라벨 -->
