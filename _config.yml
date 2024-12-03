@@ -61,13 +61,6 @@ comments:
     repo_id: R_kgDONYHURQ
     category: comments
     category_id: DIC_kwDONYHURc4Ck1yq
-    mapping: pathname
-    strict: 0
-    input_position: bottom
-    lang: ko
-    reactions_enabled: 1
-    emit_metadata: 0
-    theme: preferred_color_scheme
 
 pwa:
   enabled: true
