@@ -49,7 +49,7 @@ webmaster_verifications:
 theme_mode: dark
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/2jiho.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
