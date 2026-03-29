@@ -71,11 +71,11 @@ published: false
 
 ## 기술 스택
 
-| 분야 | 기술 |
-|------|------|
-| **언어** | C++, Python, TypeScript, C# |
-| **3D/그래픽스** | Open3D, Trimesh, Three.js, OpenCV |
-| **AI/ML** | PyTorch, TensorFlow, TensorRT |
-| **웹** | Next.js, React, Tailwind CSS |
-| **클라우드/인프라** | GCP, AWS, Firebase, Docker |
-| **데스크톱** | Revit API, Gradio, WPF |
+#### Advanced
+Python, JavaScript, TypeScript, Docker, PyTorch, OpenCV, Jetson, Machine Vision Camera
+
+#### Intermediate
+C++, C#, AWS, GCP, Firebase, Next.js, React, Three.js, TensorFlow, TensorRT, Open3D
+
+#### Beginner
+ROS2, Qt, PHP
