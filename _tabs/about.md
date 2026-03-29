@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+published: false
 ---
 
 ## 이지호 (Jiho Lee)
